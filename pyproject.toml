@@ -1,0 +1,13 @@
+[project]
+name = "Inference-MCP"
+version = "0.0.1"
+description = "MCP server that enables AI agents to operate the AI Inference Platform"
+authors = [
+    {name = "Hossam Fadil", email = "f.fadilhossam@gmail.com"}
+]
+
+readme = "README.md"
+requires-python = ">3.13"
+dependencies = [
+    "fastmcp",
+]
